@@ -30,5 +30,19 @@
       "email": "maniya@gmail.com",
       "password": "mani@123"
     }
+  ],
+  "restaurants": [
+    {
+      "id": "1",
+      "name": "Burger-King",
+      "contact": "01123432",
+      "address": "no 22, Kerawalapitiya, Wattala"
+    },
+    {
+      "id": "b20a",
+      "name": "MC",
+      "contact": 34455643,
+      "address": "no 24, Kerawalapitiya, Wattala"
+    }
   ]
 }
